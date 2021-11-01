@@ -1,6 +1,11 @@
 ## Design pattern: Adapter and Facade
-description to update
+Wzorzec Adapter:
+dokonuje konwersji interfejsu danej klasy do postaci innego interfejsu, zgodnego z oczekiwaniami klienta.
+Adapter pozwala na wzajemną współpracę klas, które ze względu na niekompatybilne interfejsy wcześniej nie mogły ze sobą współpracować.
 
+Wzorzec Fasada:
+wzorzec Fasada nie tylko zapewnia uproszczony interfejs, ale również umożliwia odseparowania kodu klienta od kodu poszczególnych składników podsystemu.
+Fasady i adaptery mogą obsługiwać tak samo wiele klas, ale przeznaczeniem fasady jest upraszczanie interfejsu, poidczas gdy przeznaczeniem adaptera jest konwersja interfejsu do innej postaci.
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
